@@ -4,7 +4,7 @@
 
 ## Les temps de l'espace
 
-L’espace est intimement lié à la construction des temporalités. Pour **Fernand Braudel** (1966), cet espace ne se limite pas uniquement à un cadre, mais influence et façonne les sociétés et leurs temporalités. **Hervé Théry** (1986) propose de reconstituer les processus historiques de l’environnement à travers le concept de *chronochorèmes*, à savoir les éléments du passé qui constituent l'espace actuel. Dans cette perspective, **Jean-Luc Piveteau** (1995) a noté avec pertinence que le paysage contemporain est un "*affleurement de multiples durées*". Ces quelques contributions renforcent l'idée que le paysage n'est pas une simple juxtaposition d'éléments, mais une surface où les différentes temporalités se manifestent de manière dynamique et parfois fragmentée.
+L’espace est intimement lié à la construction des temporalités. Pour **Fernand Braudel** (1966), cet espace ne se limite pas uniquement à un cadre, mais influence et façonne les sociétés et leurs temporalités. **Hervé Théry** (1986) propose de reconstituer les processus historiques de l’environnement à travers le concept de *chronochorèmes*, à savoir les éléments du passé qui constituent l'espace actuel. Dans cette perspective, **Jean-Luc Piveteau** (1995) a noté avec pertinence que le paysage contemporain est un "*affleurement de multiples durées*". Ces quelques contributions renforcent l'idée que le paysage n'est pas une simple juxtaposition d'éléments, mais une surface où les différentes temporalités se manifestent de manière dynamique et parfois de manière fragmentée.
 
 ---
 
