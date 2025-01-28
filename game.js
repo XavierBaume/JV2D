@@ -3163,4 +3163,4 @@ scene("PlayCinematic2", () => {
 });
 
 // Start the game at the menu
-go("panel");
+go("cover");
