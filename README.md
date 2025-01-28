@@ -46,3 +46,8 @@ Par ailleurs, les artefacts présentés dans le jeu, à l'image de la machine à
 - **François Walter**, « L'historien et les temporalités », in *Royer Jacques [e.a.] (édité par)*, *La perception du temps*, Genève : Centre universitaire d'étude des problèmes de l'énergie, 2006, p. 95-105.  
 - **Hervé Théry**, *Atlas chorématique des régions du Brésil*, Paris-Montpellier, Fayard-Reclus, 1986.  
 - **Jean-Luc Piveteau**, « L'épaisseur temporelle de l'organisation de l'espace : "palimpseste' et 'coupe transversale'», in *Temps du territoire. Continuités et ruptures dans la relation de l'homme à l'espace*, Genève, 1995, р. 163-173.
+
+---
+## Warning
+
+Le jeu vidéo n'a pas pu être complété pour les raisons connues. Il s'agit donc de la 'première partie'.
